@@ -8,8 +8,6 @@ public class StudentDatabase {
 		
 		System.out.println("Adding code to my project");
 
-		System.out.println("Adding code from GitHub");
-
 		
 		newStudent.setPhone("732-351-3517");
 		newStudent.setCity("Tinton Falls");
