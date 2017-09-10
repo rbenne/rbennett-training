@@ -7,6 +7,7 @@ public class StudentDatabase {
 		Student newStudent = new Student("Roy Bennett", "55555555");
 		
 		System.out.println("Adding code to my project");
+		System.out.println("Adding code to my project from GitHub");
 
 		
 		newStudent.setPhone("732-351-3517");
